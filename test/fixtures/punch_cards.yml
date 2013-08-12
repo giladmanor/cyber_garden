@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 
+  started_at: 2013-08-13 00:10:32
+  ended_at: 2013-08-13 00:10:32
+  location_lt: 1.5
+  location_lg: 1.5
+
+two:
+  user_id: 
+  started_at: 2013-08-13 00:10:32
+  ended_at: 2013-08-13 00:10:32
+  location_lt: 1.5
+  location_lg: 1.5
