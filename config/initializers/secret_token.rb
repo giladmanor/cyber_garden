@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-CyberGarden::Application.config.secret_key_base = 'b3b9fc7b97d39d67b197f685480a96ab29f6cde34c7c186bf69a9c0993b46a72b59d04fb4c0b013d72488ff24e80072ae91b2a4cae0471a942d65372aea95707'
+CyberGarden::Application.config.secret_key_base = '312195252f4b760d85808612dda987886b708a79dbd6f1219c73d9a53dbb517c2f7deb4254d06e59304cd6e11530b44dd94cde8426152b72db0c43a90a073a6a'
